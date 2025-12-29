@@ -1,3 +1,4 @@
+rmdir /s /q .git
 # Miscellaneous
 *.class
 *.log
