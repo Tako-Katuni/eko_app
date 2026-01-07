@@ -57,6 +57,12 @@ flutter:
     - assets/images/Flag_3.webp
     - assets/images/Flag_4.webp
     - assets/images/Flag_5.webp
+    - assets/images/Flag_6.webp
+    - assets/images/Flag_7.webp
+    - assets/images/Flag_8.webp
+    - assets/images/Flag_9.webp
+    - assets/images/Flag_10.webp
+    
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
